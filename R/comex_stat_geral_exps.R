@@ -19,7 +19,7 @@ get_cached_file <- function(arquivo, force_download = FALSE) {
   url <- paste0(base_url, "/", arquivo)
 
   tryCatch({
-    df <- read_parquet(url)
+    df <- arrow::read_parquet(url)
     cat("Arquivo baixado com sucesso. Linhas:", nrow(df), "\n")
 
     # Salvar no cache
