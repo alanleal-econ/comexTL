@@ -8,11 +8,16 @@ License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
+Depends: R (>= 3.5.0)
 Imports:
     arrow,
     readr,
     dplyr,
     purrr,
     rlang,
+    magrittr,
+    stats,
+    utils
+Suggests:
     tidyverse
 RoxygenNote: 7.2.3
