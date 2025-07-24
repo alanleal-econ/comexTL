@@ -1,5 +1,5 @@
 library(readr)
-library(tidyverse)
+library(dplyr)
 
 # Cache global para armazenar tabelas de referência
 .comex_tabelas_cache <- new.env()
