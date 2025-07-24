@@ -89,10 +89,10 @@ head(exp_soja_2024)
 
 # Análise multi-anual para China e EUA
 exp_china_eua <- comex_stat_geral_exps(
-    anos = c(2023, 2024),
-    sh6 = 120100,  # Soja específica
-    co_pais = c(132, 249),  # China e EUA
-    agregar_por = c("CO_ANO", "CO_PAIS")
+  anos = c(2023, 2024),
+  sh6 = 120190,  # Soja específica
+  co_pais = c(160, 249),  # China e EUA
+  agregar_por = c("CO_ANO", "CO_PAIS")
 )
 ```
 
@@ -102,7 +102,7 @@ exp_china_eua <- comex_stat_geral_exps(
 imp_maquinas <- comex_stat_geral_imps(
     anos = 2024,
     sh2 = 85,  # Máquinas elétricas
-    co_pais = c(132, 249),  # China e EUA
+    co_pais = c(160, 249),  # China e EUA
     agregar_por = c("CO_PAIS"),
     metricas = c("VL_FOB", "VL_FRETE", "VL_SEGURO")
 )
@@ -290,7 +290,7 @@ print(exp_regional)
 resultado <- comex_stat_geral_exps(
     anos = 2024,
     sh4 = c(1201, 1202),  # Específico
-    co_pais = c(132)      # China apenas
+    co_pais = c(160)      # China apenas
 )
 
 # Aproveite o cache
