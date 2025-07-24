@@ -3,7 +3,7 @@
 # Operador pipe essencial
 importFrom(magrittr, "%>%")
 
-# Funções do dplyr (identificadas no seu código)
+# Funções do dplyr
 importFrom(dplyr, "filter")
 importFrom(dplyr, "mutate") 
 importFrom(dplyr, "group_by")
