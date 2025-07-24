@@ -1,5 +1,5 @@
 library(arrow)
-library(tidyverse)
+library(dplyr)
 
 # Cache global para armazenar arquivos baixados
 .comexstat_cache <- new.env()
