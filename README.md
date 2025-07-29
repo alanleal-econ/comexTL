@@ -7,6 +7,8 @@
 [![R](https://img.shields.io/badge/R-4.0%2B-blue?logo=r)](https://www.r-project.org/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
+**Dados Atualizados em 29/07/2025*
+
 `comexTL` é um pacote R avançado que facilita o acesso, análise e manipulação dos dados oficiais de comércio exterior brasileiro do ComexStat (MDIC). Com uma arquitetura moderna baseada em Apache Arrow e sistema de cache inteligente, o pacote oferece interface unificada para análises desde o nível geral (NCM detalhado) até municipal (SH4).
 
 ---
