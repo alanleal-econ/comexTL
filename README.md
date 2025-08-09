@@ -341,7 +341,7 @@ dados_fresh <- comex_stat_geral_exps(anos = 2024, force_download = TRUE)
 
 ## 📖 Documentação Completa
 
-- **📄 Documentação Técnica e Detalhes do Pacote**: [comexTL](https://www2.thetalab.com.br/software/comextl/)
+- **📄 Documentação Técnica e Detalhes do Pacote**: [comexTL](https://alanleal-econ.com/index.php/codes/comextl/)
 - **❓ Ajuda Integrada**: Use `?nome_da_funcao` no R
 - **🐛 Issues**: [GitHub Issues](https://github.com/alanleal-econ/comexTL/issues)
 
@@ -380,8 +380,8 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 **Alan Leal** - Economista especializado em comércio, meio ambiente e clima.
 
 - 🐙 **GitHub**: [@alanleal-econ](https://github.com/alanleal-econ)
-- 📧 **Email**: leal@thetalab.com.br
-- 🏢 **Theta Lab**: [thetalab.com.br](https://thetalab.com.br)
+- 📧 **Email**: prof@alanleal-econ.com
+- 🏢 **Homepage Alan Leal**: [alanleal-econ.com](https://alanleal-econ.com)
 
 ---
 
