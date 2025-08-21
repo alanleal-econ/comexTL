@@ -1,8 +1,8 @@
 Package: comexTL
 Type: Package
-Title: Dados do Comércio Exterior Brasileiro no R por Theta Lab
+Title: Dados do Comércio Exterior Brasileiro no R
 Version: 0.1.0
-Authors@R: person("Alan", "Leal", email = "leal@thetalab.com.br", role = c("aut", "cre"))
+Authors@R: person("Alan", "Leal", email = "prof@alanleal-econ.com", role = c("aut", "cre"))
 Description: Este pacote fornece funções para baixar, cachear e analisar dados de comércio exterior (Comex Stat) do Brasil em níveis geral e municipal, bem como para carregar tabelas de referência associadas.
 License: MIT + file LICENSE
 Encoding: UTF-8
