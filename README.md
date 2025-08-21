@@ -1,6 +1,6 @@
 # comexTL
 
-**Dados do Comércio Exterior Brasileiro no R por Theta Lab**
+**Dados do Comércio Exterior Brasileiro no R**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/alanleal-econ/comexTL)
 [![R](https://img.shields.io/badge/R-4.0%2B-blue?logo=r)](https://www.r-project.org/)
